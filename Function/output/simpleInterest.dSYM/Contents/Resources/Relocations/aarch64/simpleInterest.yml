@@ -1,8 +1,8 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/ashutoshchaudhary/Documents/C Programming/Function/output/simpleInterest'
+binary-path:     '/Users/ashutoshchaudhary/Documents/C Programming/C-Programming/Function/output/simpleInterest'
 relocations:
-  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E9C, symSize: 0x8C }
-  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E9C, symSize: 0x8C }
-  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _simpleInterest, symObjAddr: 0x8C, symBinAddr: 0x100003F28, symSize: 0x34 }
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E98, symSize: 0x2C }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E98, symSize: 0x2C }
+  - { offsetInCU: 0x5A, offset: 0x5A, size: 0x8, addend: 0x0, symName: _simpleInterest, symObjAddr: 0x2C, symBinAddr: 0x100003EC4, symSize: 0x8C }
 ...
