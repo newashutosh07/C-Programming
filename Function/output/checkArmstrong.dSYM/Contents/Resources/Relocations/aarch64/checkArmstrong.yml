@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ashutoshchaudhary/Documents/C Programming/C-Programming/Function/output/checkArmstrong'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E08, symSize: 0x54 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E08, symSize: 0x54 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _checkArmstrong, symObjAddr: 0x54, symBinAddr: 0x100003E5C, symSize: 0xEC }
+...
